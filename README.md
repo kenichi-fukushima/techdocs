@@ -1,5 +1,9 @@
 # techdocs
 
+## Programming
+
+- [イベントはスレッドに比べて何故ダメなのか (Why Events Are A Bad Idea)](https://www.yunabe.jp/docs/why_events_are_a_bad_idea.html)
+
 ## Database
 - [リレーショナルデータベースの仕組み (1/3) - POSTD](https://postd.cc/how-does-a-rdb-work-1/)
 
