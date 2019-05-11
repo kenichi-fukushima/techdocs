@@ -16,4 +16,5 @@
 - [フロントエンジニアなら知っておきたいブラウザレンダリングの仕組みをわかりやすく解説！](https://leap-in.com/ja/lets-learn-how-to-browser-works/)
 
 ## Low Level
+- [Latency Numbers Every Programmer Should Know](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
 - [From Nand to Tetris](https://www.nand2tetris.org/)
