@@ -11,6 +11,9 @@
 ## Database
 - [リレーショナルデータベースの仕組み (1/3) - POSTD](https://postd.cc/how-does-a-rdb-work-1/)
 
+## Operating Systems
+- [Linux Performance](http://www.brendangregg.com/linuxperf.html)
+
 ## Web Browsers
 - [How Blink works](https://docs.google.com/document/d/1aitSOucL0VHZa9Z2vbRJSyAIsAz24kX8LFByQ5xQnUg/edit#)
 - [フロントエンジニアなら知っておきたいブラウザレンダリングの仕組みをわかりやすく解説！](https://leap-in.com/ja/lets-learn-how-to-browser-works/)
