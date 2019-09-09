@@ -25,3 +25,4 @@
 
 ## Soft Skills
 - [A Senior Engineer's CheckList](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/)
+- [eng-practices Google's Engineering Practices documentation](https://google.github.io/eng-practices/)
